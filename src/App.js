@@ -4,7 +4,7 @@ import logo from './logo.svg';
 
 import './App.css';
 
-
+//This is a calculator project in react js
 
 const App = () =>{
   const [input,setInput]= useState('12');
